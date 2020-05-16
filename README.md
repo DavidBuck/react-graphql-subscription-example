@@ -14,4 +14,3 @@ Run `npm run start` to start the server and the React client.
 - [graphql-yoga](https://github.com/prisma-labs/graphql-yoga)
 - [date-fns](https://github.com/date-fns/date-fns)
 - [Tailwind](https://tailwindcss.com)
-- [ng-tailwindcss](https://github.com/tehpsalmist/ng-tailwindcss)
