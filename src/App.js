@@ -1,4 +1,3 @@
-import React from "react"
 import gql from "graphql-tag"
 import { useSubscription } from "@apollo/react-hooks"
 import { format } from "date-fns"
